@@ -1,0 +1,22 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.env
+!.env.example
+
+# Data
+chroma_db/
+uploads/
+*.sqlite3
+
+# OS
+.DS_Store
+
+# Node (if frontend uses it)
+node_modules/
