@@ -30,4 +30,5 @@ langsmith==0.1.63
 
 # Config
 pydantic-settings==2.2.1
-python-dotenv==1.0.1httpx==0.27.2
+python-dotenv==1.0.1
+httpx==0.27.2
