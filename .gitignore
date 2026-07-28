@@ -20,3 +20,4 @@ uploads/
 
 # Node (if frontend uses it)
 node_modules/
+frontend/.streamlit/secrets.toml
